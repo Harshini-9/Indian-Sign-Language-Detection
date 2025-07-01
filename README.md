@@ -13,11 +13,13 @@ The objective of this project is to develop a real-time system capable of recogn
   
   The project follows a structured pipeline from data collection to real-time gesture recognition:
   1. Data Collection
+     The sign language followed in the project is refrered from this.
+     ![Reference](https://github.com/Harshini-9/Indian-Sign-Language-Detection/blob/main/ISL_ML_PROJECT/ISL_gestures.jpg)
      - Tool: OpenCV for video capture.
      - Process:- Users perform gestures within a defined Region of Interest (ROI) on the screen.
                - 1,200 frames per gesture are captured and saved as JPEG images (resized to uniform dimensions).
                - Data is organized into folders, with each folder representing a unique gesture label.
-  2. Data Augmentation
+  3. Data Augmentation
      
 To enhance dataset diversity and prevent overfitting, the following transformations are applied:
 
