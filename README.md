@@ -14,7 +14,7 @@ The objective of this project is to develop a real-time system capable of recogn
   The project follows a structured pipeline from data collection to real-time gesture recognition:
   1. Data Collection
      
-     The sign language followed in the project is refrered from this.
+     The sign language followed in the project is refrered from this image.
      
      ![Reference](https://github.com/Harshini-9/Indian-Sign-Language-Detection/blob/main/ISL_ML_PROJECT/ISL_gestures.jpg)
      
