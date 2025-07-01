@@ -62,6 +62,9 @@ Models Tested:
   
   5. Display results in real-time.
 
+# Output Samples
+[Letter i](https://github.com/Harshini-9/Indian-Sign-Language-Detection/blob/main/i.jpg)
+[Number 2](https://github.com/Harshini-9/Indian-Sign-Language-Detection/blob/main/2.jpg)
   # Key Concepts & Technologies
 
 Computer Vision
