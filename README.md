@@ -9,7 +9,7 @@ The objective of this project is to develop a real-time system capable of recogn
 - Classifying gestures using machine learning models.
 - Providing real-time feedback to users.
 
-  ** Methodology **
+** Methodology **
   
   The project follows a structured pipeline from data collection to real-time gesture recognition:
   1. Data Collection
