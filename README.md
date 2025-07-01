@@ -15,7 +15,9 @@ The objective of this project is to develop a real-time system capable of recogn
   1. Data Collection
      
      The sign language followed in the project is refrered from this.
+     
      ![Reference](https://github.com/Harshini-9/Indian-Sign-Language-Detection/blob/main/ISL_ML_PROJECT/ISL_gestures.jpg)
+     
      - Tool: OpenCV for video capture.
      - Process:- Users perform gestures within a defined Region of Interest (ROI) on the screen.
                - 1,200 frames per gesture are captured and saved as JPEG images (resized to uniform dimensions).
