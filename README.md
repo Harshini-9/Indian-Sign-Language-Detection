@@ -50,24 +50,7 @@ Models Tested:
 - Support Vector Machine (SVM)
 
 **Model Comparision results**
-``` Model: KNN
-Accuracy: 0.9531, Precision: 0.9531, Recall: 0.9531, F1 Score: 0.9531
-
-Model: Decision Tree
-Accuracy: 0.5086, Precision: 0.5086, Recall: 0.5086, F1 Score: 0.5086
-
-Model: Naive Bayes
-Accuracy: 0.9380, Precision: 0.9380, Recall: 0.9380, F1 Score: 0.9380
-
-Model: Gradient Boosting
-Accuracy: 0.9283, Precision: 0.9283, Recall: 0.9283, F1 Score: 0.9283
-
-Model: Logistic Regression
-Accuracy: 0.9626, Precision: 0.9626, Recall: 0.9626, F1 Score: 0.9626
-
-Model: Random Forest
-Accuracy: 0.9313, Precision: 0.9313, Recall: 0.9313, F1 Score: 0.9313
-```
+![Model_Comparision](https://github.com/Harshini-9/Indian-Sign-Language-Detection/blob/main/ISL_ML_PROJECT/model_com.jpg)
 
   *Best Model: SVM (linear kernel, regularization=0.1) achieved the highest accuracy.
   
@@ -86,6 +69,8 @@ Accuracy: 0.9313, Precision: 0.9313, Recall: 0.9313, F1 Score: 0.9313
   4. Classify gestures using SVM.
   
   5. Display results in real-time.
+
+  ![Pipeline](https://github.com/Harshini-9/Indian-Sign-Language-Detection/blob/main/ISL_ML_PROJECT/flow.jpg)
 
 # Output Samples
 [Letter i](https://github.com/Harshini-9/Indian-Sign-Language-Detection/blob/main/i.jpg)
