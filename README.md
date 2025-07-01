@@ -71,7 +71,7 @@ Models Tested:
   
   5. Display results in real-time.
 
-  ![Pipeline](https://github.com/Harshini-9/Indian-Sign-Language-Detection/blob/main/ISL_ML_PROJECT/flow.jpg)
+
 
 # Output Samples
 [Letter i](https://github.com/Harshini-9/Indian-Sign-Language-Detection/blob/main/i.jpg)
@@ -83,6 +83,8 @@ Computer Vision
 - Canny Edge Detection: Detects gesture boundaries through grayscale conversion, Gaussian blur, non-max suppression, and thresholding.
 - SURF Algorithm: Efficiently extracts and describes interest points using Hessian matrix-based detection and orientation assignment.
 
+  ![Pipeline](https://github.com/Harshini-9/Indian-Sign-Language-Detection/blob/main/ISL_ML_PROJECT/flow.jpg)
+  
 Machine Learning
 - Classical ML Models: Focus on non-neural-network approaches (e.g., SVM, Random Forest).
 - Feature Engineering: SURF descriptors + visual word histograms for robust gesture representation.
