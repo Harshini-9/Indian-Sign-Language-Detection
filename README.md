@@ -50,6 +50,7 @@ Models Tested:
 - Support Vector Machine (SVM)
 
 **Model Comparision results**
+
 ![Model_Comparision](https://github.com/Harshini-9/Indian-Sign-Language-Detection/blob/main/ISL_ML_PROJECT/model_com.jpg)
 
   *Best Model: SVM (linear kernel, regularization=0.1) achieved the highest accuracy.
