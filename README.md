@@ -1,6 +1,7 @@
 # Indian Sign Language Recognition System
 
 ** Objective **
+
 The objective of this project is to develop a real-time system capable of recognizing and interpreting Indian Sign Language (ISL) gestures using computer vision and machine learning techniques. The system aims to bridge the communication gap between deaf and hearing individuals by translating hand gestures into meaningful outputs. Key goals include:
 
 - Capturing hand gestures via a webcam.
@@ -9,6 +10,7 @@ The objective of this project is to develop a real-time system capable of recogn
 - Providing real-time feedback to users.
 
   ** Methodology **
+  
   The project follows a structured pipeline from data collection to real-time gesture recognition:
   1. Data Collection
      - Tool: OpenCV for video capture.
@@ -16,6 +18,7 @@ The objective of this project is to develop a real-time system capable of recogn
                - 1,200 frames per gesture are captured and saved as JPEG images (resized to uniform dimensions).
                - Data is organized into folders, with each folder representing a unique gesture label.
   2. Data Augmentation
+     
 To enhance dataset diversity and prevent overfitting, the following transformations are applied:
 
 - Brightness Modification: Random adjustment (factor: 0.7–1.3).
