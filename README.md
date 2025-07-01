@@ -43,6 +43,7 @@ Models Tested:
 - Gradient Boosting
 - Naive Bayes
 - Support Vector Machine (SVM)
+  
   *Best Model: SVM (linear kernel, regularization=0.1) achieved the highest accuracy.
   
   *Dataset Split: 80% training (28,000 images) and 20% testing (7,000 images) across 35 gesture classes.
@@ -51,15 +52,15 @@ Models Tested:
 
 5. Real-Time Gesture Recognition
 - Pipeline:
-          1. Capture video frames via webcam.
+   1. Capture video frames via webcam.
   
-          2. Isolate ROI and apply Canny edge detection.
+  2. Isolate ROI and apply Canny edge detection.
   
-          3. Extract SURF features and create visual words.
+  3. Extract SURF features and create visual words.
   
-          4. Classify gestures using SVM.
+  4. Classify gestures using SVM.
   
-          5. Display results in real-time.
+  5. Display results in real-time.
 
   # Key Concepts & Technologies
 
