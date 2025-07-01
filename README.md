@@ -1,6 +1,6 @@
 # Indian Sign Language Recognition System
 
-** Objective **
+**Objective**
 
 The objective of this project is to develop a real-time system capable of recognizing and interpreting Indian Sign Language (ISL) gestures using computer vision and machine learning techniques. The system aims to bridge the communication gap between deaf and hearing individuals by translating hand gestures into meaningful outputs. Key goals include:
 
@@ -9,7 +9,7 @@ The objective of this project is to develop a real-time system capable of recogn
 - Classifying gestures using machine learning models.
 - Providing real-time feedback to users.
 
-** Methodology **
+**Methodology**
   
   The project follows a structured pipeline from data collection to real-time gesture recognition:
   1. Data Collection
@@ -48,7 +48,27 @@ Models Tested:
 - Gradient Boosting
 - Naive Bayes
 - Support Vector Machine (SVM)
-  
+
+**Model Comparision results**
+``` Model: KNN
+Accuracy: 0.9531, Precision: 0.9531, Recall: 0.9531, F1 Score: 0.9531
+
+Model: Decision Tree
+Accuracy: 0.5086, Precision: 0.5086, Recall: 0.5086, F1 Score: 0.5086
+
+Model: Naive Bayes
+Accuracy: 0.9380, Precision: 0.9380, Recall: 0.9380, F1 Score: 0.9380
+
+Model: Gradient Boosting
+Accuracy: 0.9283, Precision: 0.9283, Recall: 0.9283, F1 Score: 0.9283
+
+Model: Logistic Regression
+Accuracy: 0.9626, Precision: 0.9626, Recall: 0.9626, F1 Score: 0.9626
+
+Model: Random Forest
+Accuracy: 0.9313, Precision: 0.9313, Recall: 0.9313, F1 Score: 0.9313
+```
+
   *Best Model: SVM (linear kernel, regularization=0.1) achieved the highest accuracy.
   
   *Dataset Split: 80% training (28,000 images) and 20% testing (7,000 images) across 35 gesture classes.
